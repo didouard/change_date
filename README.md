@@ -1,2 +1,2 @@
 # change_date
-script to change date for gopro photo
+Script to change date for gopro file
